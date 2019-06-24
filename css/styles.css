@@ -155,13 +155,13 @@ p:last-of-type {
 }
 
 .button-accent {
-	color: #00ff6c;
-	border-color: #00ff6c;
+	color: #B11313;
+	border-color: #B11313;
 }
 
 .button-accent:hover,
 .button-accent:focus {
-	background: #00ff6c;
+	background: #B11313;
 	color: #232323;
 }
 
@@ -173,7 +173,7 @@ p:last-of-type {
 .button-dark:hover,
 .button-dark:focus {
 	background: #232323;
-	color: #00ff6c;
+	color: #B11313;
 }
 
 /* Parallax
@@ -259,14 +259,14 @@ nav a:focus {
 	padding: 4em;
 	width: 100vw;
 	margin-left: -2.5%;
-	outline: 2px solid #00ff6c;
+	outline: 2px solid #B11313;
 	outline-offset: -2.5em;
 	color: #FFF;
 	position: relative;
 }
 
 .home-about-textbox h1 {
-	color: #00ff6c;
+	color: #B11313;
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
@@ -380,7 +380,7 @@ nav a:focus {
 =================== */
 
 .cta {
-	background-color: #00ff6c;
+	background-color: #B11313;
 	padding: 5em 0;
 }
 
