@@ -17,6 +17,7 @@ img {
 }
 
 .container {
+    
 	width: 95%;
 	max-width: 70em;
 	margin: 0 auto;
@@ -255,7 +256,7 @@ nav a:focus {
 =================== */
 
 .home-about-textbox {
-	background-color: #232323;
+	background-color: #111111;
 	padding: 4em;
 	width: 100vw;
 	margin-left: -2.5%;
@@ -271,7 +272,7 @@ nav a:focus {
 	left: 50%;
 	transform: translateX(-50%);
 	top: .75em;
-	background: #232323;
+	background: #111111;
 	padding: 0 .145em;
 }
 
@@ -296,7 +297,7 @@ nav a:focus {
 	}
 
 	.home-about {
-		background-image: url(../picofbot.jpg);
+		background-image: url(../work.jpg);
 		background-repeat: no-repeat;
 		padding-bottom: 10em;
 	}
